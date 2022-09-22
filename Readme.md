@@ -17,6 +17,7 @@
 
 * Chrome
 * KeePassXC
+* Signal Client
 * Spotify
 * Visual Studio Code
 * git
