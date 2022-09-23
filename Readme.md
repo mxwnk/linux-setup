@@ -17,11 +17,18 @@
 
 * Chrome
 * KeePassXC
-* Signal Client
-* Spotify
-* Visual Studio Code
 * git
 * [git cola](https://git-cola.github.io/)
 * nodejs
+* Signal Client
+* Spotify
+* Visual Studio Code
 * vim
 * yarn
+
+## Setup
+
+* Dark Mode: `gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark`
+* Mouse Wheel: imwheel
+** Install: `sudo dnf install imwheel`
+** Start: `bash <(curl -s http://www.nicknorton.net/mousewheel.sh)`
