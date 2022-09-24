@@ -12,6 +12,7 @@
 * [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 * [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
 * [SimpleSystemMonitor](https://extensions.gnome.org/extension/4506/simple-system-monitor/)
+* [Tray Icons reloaded](https://extensions.gnome.org/extension/2890/tray-icons-reloaded/)
 
 ## Software
 
@@ -32,3 +33,5 @@
 * Mouse Wheel: imwheel
 ** Install: `sudo dnf install imwheel`
 ** Start: `bash <(curl -s http://www.nicknorton.net/mousewheel.sh)`
+* Keyboard Shortcuts:
+** Close Window: `CTRL + Q` 
