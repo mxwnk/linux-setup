@@ -35,3 +35,12 @@
 ** Start: `bash <(curl -s http://www.nicknorton.net/mousewheel.sh)`
 * Keyboard Shortcuts:
 ** Close Window: `CTRL + Q` 
+
+### Fonts
+`sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra`
+
+### Icons
+`sudo pacman -S papirus-icon-theme`
+
+```git config --add oh-my-zsh.hide-status 1```
+```git config --add oh-my-zsh.hide-dirty 1```
